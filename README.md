@@ -5,3 +5,5 @@ in the previous workshop I had made the sketch move and leave a trail by acciden
 <img width="925" alt="bounce loop" src="https://github.com/user-attachments/assets/f7e737db-e73b-4cbb-a8fb-28be454d771d" />
 
 I found adding the bounce loop easier than the previous trials so I feel like I am starting to9 get the hang of things and will soon start experimenting and problem solving more on my own. 
+
+<iframe src="https://editor.p5js.org/Acacia559/full/wCf6MBc-z"></iframe> 
