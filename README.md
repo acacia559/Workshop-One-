@@ -7,3 +7,8 @@ in the previous workshop I had made the sketch move and leave a trail by acciden
 I found adding the bounce loop easier than the previous trials so I feel like I am starting to9 get the hang of things and will soon start experimenting and problem solving more on my own. 
 
 <iframe src="https://editor.p5js.org/Acacia559/full/wCf6MBc-z"></iframe> 
+
+I was really creatively struggling with the workshop tasks so I came back to this point and made a bear shape to turn into a function
+<img width="1025" alt="workshop one - bear" src="https://github.com/user-attachments/assets/a7c8df66-9ec7-4d47-abfc-1d56aa5038b6" />
+
+https://editor.p5js.org/Acacia559/full/wCf6MBc-z
